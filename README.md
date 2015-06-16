@@ -1,2 +1,2 @@
 # goods
-Demo: <a href='tgor.tk'>tgor.tk</a>
+Demo: <a href='http://tgor.tk'>tgor.tk</a>
